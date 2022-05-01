@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @a1l1n
-- 👀 I’m interested in lots of things. 
-- 🌱 I’m currently learning JavaScript, CSS and HTML
-- 💞️ I’m looking to collaborate on investigation proyects, but in a few years from now (Im on the basics)
+- 👀 I’m interested in a lots of things. 
+- 🌱 I’m currently learning JavaScript, CSS, HTML, React and Redux.
+- 💞️ I’m looking to collaborate on investigation proyects, but in a few years from now (Im on the basics, so...)
 - 📫 How to reach me ...
 
 <!---
