@@ -9,7 +9,7 @@ Soy una incipiente y entusiasta desarrolladora web con un particular interés en
 
 - 📫 **Como contactarme:**
 - Email: ailin.tobares@gmail.com
-- Linkedin: https://www.linkedin.com/in/ailin-t-b6251220b/
+- Linkedin: https://www.linkedin.com/in/ailin-tobares-b6251220b/
 
 
 <h3 align="left">Languajes y herramientas:</h3>
